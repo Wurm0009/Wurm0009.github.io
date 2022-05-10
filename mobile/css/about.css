@@ -1,0 +1,15 @@
+body{background:#f3e7dc;color:#3c3839;font-family:"Old Standard TT",serif;font-size:1.2em;margin:0}
+a.button {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    padding: 12px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+  }
+  a.button-blue {
+    background-color: blue;
+  }
