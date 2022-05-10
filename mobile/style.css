@@ -13,7 +13,7 @@ a:hover {
 
 #aac {
   position: relative;
-  height: 1000vh;
+  height: 100vh;
   background: #030005;
 }
 
@@ -25,29 +25,29 @@ a:hover {
 
 .aac .aac-1 {
   position: relative;
-  height: 90px;
+  height: 1px;
 }
 
 .aac .aac-1 h1 {
   margin: 0 auto;
   font-family: 'Montserrat', sans-serif;
-  font-size: 100px;
-  font-weight: 1800;
+  font-size: 70px;
+  font-weight: 1;
   color: #030005;
   text-transform: uppercase;
   text-shadow: -1px -1px 0px #8400ff, 1px 1px 0px #ff005a;
-  letter-spacing: -20px;
+  letter-spacing: -10px;
 }
 
 
 .aac .aac-1 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 20px;
+  font-weight: 1;
   color: #fff;
   text-transform: uppercase;
   text-shadow: 0px 2px 0px #8400ff;
-  letter-spacing: 13px;
+  letter-spacing: 11px;
   margin: 0;
 }
 
