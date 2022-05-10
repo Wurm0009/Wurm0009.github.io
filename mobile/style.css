@@ -13,7 +13,7 @@ a:hover {
 
 #aac {
   position: relative;
-  height: 100vh;
+  height: 1000vh;
   background: #030005;
 }
 
@@ -25,14 +25,14 @@ a:hover {
 
 .aac .aac-1 {
   position: relative;
-  height: 180px;
+  height: 90px;
 }
 
 .aac .aac-1 h1 {
   margin: 0 auto;
   font-family: 'Montserrat', sans-serif;
   font-size: 100px;
-  font-weight: 900;
+  font-weight: 1800;
   color: #030005;
   text-transform: uppercase;
   text-shadow: -1px -1px 0px #8400ff, 1px 1px 0px #ff005a;
@@ -51,20 +51,9 @@ a:hover {
   margin: 0;
 }
 
-@media only screen and (max-width: 767px) {
-    .aac .aac-1 h2 {
-        font-size: 24px;
-    }
-}
-
-@media only screen and (max-width: 480px) {
-  .aac .aac-1 h1 {
-      font-size: 182px;
-  }
-}
 a.button {
   display: inline-block;
-  color: rgb(196, 190, 4);
+  color: rgb(220, 213, 2);
   padding: 12px;
   border-radius: 3px;
   text-decoration: none;
